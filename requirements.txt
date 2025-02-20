@@ -1,0 +1,7 @@
+streamlit
+pandas
+snowflake-connector-python
+google.generativeai
+dotenv
+faiss-cpu
+sentence_transformers

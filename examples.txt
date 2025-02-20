@@ -1,0 +1,14 @@
+Show me the top 5 records from the fact_ad_summary_ui table
+
+
+what is my total price_avg from the fact_ad_summary_ui table
+
+take sum of  sales_revenue_sum column  by each year from the fact_ad_summary_ui table
+
+what is my total sales_revenue_sum by each year(date column is DATE) from the fact_ad_summary_ui table
+
+what is my total sales_revenue_sum by each year(date column is DATE) from the fact_ad_summary_ui table when my sales_units_flag=1
+
+show top 5 records from fact_ad_summary_ui table
+
+Show me the top 5 records from the crtd_inventory_transaction table
